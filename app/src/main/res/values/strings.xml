@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MAD_20012011156_Practical_5</string>
+    <string name="web_url">Web URL</string>
+    <string name="browse">Browse</string>
+    <string name="call_number">Call Number</string>
+    <string name="call">Call</string>
+    <string name="contact_list">Contact List</string>
+    <string name="contact">Contact</string>
+    <string name="call_log">Call Log</string>
+    <string name="call_log1">Call Log</string>
+    <string name="gallery">Gallery</string>
+    <string name="gallery1">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="camera1">Camera</string>
+    <string name="alarm">Alarm</string>
+    <string name="alarm2">Alarm</string>
+</resources>
